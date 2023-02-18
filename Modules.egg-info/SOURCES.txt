@@ -1,0 +1,13 @@
+setup.py
+Modules/__init__.py
+Modules.egg-info/PKG-INFO
+Modules.egg-info/SOURCES.txt
+Modules.egg-info/dependency_links.txt
+Modules.egg-info/top_level.txt
+Modules/helper/__init__.py
+Modules/helper/classes/SentimentClassifier.py
+Modules/helper/classes/__init__.py
+Modules/helper/config/__init__.py
+Modules/helper/functions/__init__.py
+Modules/helper/imports/__init__.py
+Modules/helper/imports/classImport.py
